@@ -1,0 +1,155 @@
+* {
+    font-family: 'Karla', sans-serif;
+    margin: 0; 
+    padding: 0; 
+    box-sizing:border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+body {
+    background-image: url("b3.jpg");
+}
+
+.sidenav {
+    width: 140px;
+    position: fixed;
+    top: 200px;
+    background: #424B54;
+    overflow-x: hidden;
+    padding: 8px 0;
+    border-style: solid solid solid none;
+    border-color: #B38D97;
+  }
+  
+  .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+    display: block;
+  }
+  
+  .sidenav a:hover {
+    color: #B38D97;
+  }
+
+
+#name {
+    background-color: #424B54;
+    text-align: center;
+    font-size: small;
+    letter-spacing: 3px;
+    color: white;
+    padding: 35px;
+    margin-right: 220px;
+    margin-left: 220px;
+}
+
+#picture {
+    background-color: #B38D97;
+    text-align: center;
+    margin-right: 220px;
+    margin-left: 220px;
+}
+
+#aboutMe {
+    background-color: #D5ACA9;
+    color: white;
+    font-size: small;
+    letter-spacing: 3px;
+    text-align: center;
+    padding: 30px;
+    margin-right: 220px;
+    margin-left: 220px;
+}
+
+#aboutMe p {
+    padding: 30px;
+    font-size: large;
+    letter-spacing: 0px;
+}
+
+#projects {
+    background-color: #EBCFB2;
+    color: white;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: small;
+    padding: 30px;
+    margin-right: 220px;
+    margin-left: 220px;
+}
+
+#gallery {
+    margin: 60px;
+    width: 300px;
+    margin-left: 50px;;
+    background-color: inherit;
+    display: inline-block;
+    
+}
+  
+#gallery img {
+    width: 300px;
+    height: 300px;
+}
+  
+#desc {
+    text-align: center;
+}
+
+#resume {
+    background-color: #C5BAAF;
+    text-align: center;
+    font-size: small;
+    letter-spacing: 3px;
+    color: white;
+    padding: 35px;
+    margin-right: 220px;
+    margin-left: 220px;
+}
+
+#resume embed{
+    margin: 60px;
+}
+
+#contact {
+    background-color: #424B54;
+    text-align: center;
+    font-size: small;
+    letter-spacing: 3px;
+    color: white;
+    padding: 35px;
+    margin-right: 220px;
+    margin-left: 220px;
+}
+
+#email {
+    margin: 30px;
+    display: inline-block;
+}
+
+.material-icons {
+    color: white;
+}
+
+#github {
+    margin: 30px;
+    display: inline-block;
+}
+
+.fa-github {
+    color:white;
+}
+
+#linkedln {
+    margin: 30px;
+    display: inline-block;
+}
+
+.fa-linkedin-square {
+    color:white;
+}

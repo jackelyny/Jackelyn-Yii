@@ -22,6 +22,7 @@ body {
     padding: 8px 0;
     border-style: solid solid solid none;
     border-color: #B38D97;
+
   }
   
   .sidenav a {
@@ -53,6 +54,13 @@ body {
     text-align: center;
     margin-right: 220px;
     margin-left: 220px;
+}
+
+#picture img {
+    max-width: 100%;
+    height: auto;
+    padding-top: 95px;
+    padding-bottom: 95px;
 }
 
 #aboutMe {

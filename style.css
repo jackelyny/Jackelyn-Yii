@@ -13,6 +13,11 @@ body {
     background-image: url("b3.jpg");
 }
 
+div {
+    max-width: 1200px;
+    margin: auto;
+}
+
 .sidenav {
     width: 140px;
     position: fixed;
@@ -90,11 +95,6 @@ body {
     background-color: inherit;
     display: inline-block;
     
-}
-  
-#gallery img {
-    width: 300px;
-    height: 300px;
 }
   
 #desc {

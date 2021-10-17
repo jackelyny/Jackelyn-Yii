@@ -87,7 +87,7 @@ body {
 
 #projects {
     background-color: #EBCFB2;
-    color: white;
+    color: #424B54;
     text-align: center;
     letter-spacing: 3px;
     font-size: small;
@@ -120,7 +120,6 @@ body {
     padding: 35px;
     margin-right: 220px;
     margin-left: 220px;
-    overflow: hidden;
 }
 
 #resume embed{

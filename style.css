@@ -46,8 +46,6 @@ body {
     padding: 35px;
     margin-right: 220px;
     margin-left: 220px;
-    max-width: 1200px;
-    min-width: 320px;
 }
 
 #picture {
@@ -55,8 +53,6 @@ body {
     text-align: center;
     margin-right: 220px;
     margin-left: 220px;
-    max-width: 1200px;
-    min-width: 320px;
 }
 
 #aboutMe {
@@ -68,8 +64,6 @@ body {
     padding: 30px;
     margin-right: 220px;
     margin-left: 220px;
-    max-width: 1200px;
-    min-width: 320px;
 }
 
 #aboutMe p {
@@ -87,8 +81,6 @@ body {
     padding: 30px;
     margin-right: 220px;
     margin-left: 220px;
-    max-width: 1200px;
-    min-width: 320px;
 }
 
 #gallery {
@@ -115,8 +107,6 @@ body {
     padding: 35px;
     margin-right: 220px;
     margin-left: 220px;
-    max-width: 1200px;
-    min-width: 320px;
 }
 
 #resume embed{
@@ -132,8 +122,6 @@ body {
     padding: 35px;
     margin-right: 220px;
     margin-left: 220px;
-    max-width: 1200px;
-    min-width: 320px;
 }
 
 #email {

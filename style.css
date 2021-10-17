@@ -13,11 +13,6 @@ body {
     background-image: url("b3.jpg");
 }
 
-div {
-    max-width: 1200px;
-    margin: auto;
-}
-
 .sidenav {
     width: 140px;
     position: fixed;
@@ -51,6 +46,8 @@ div {
     padding: 35px;
     margin-right: 220px;
     margin-left: 220px;
+    max-width: 1200px;
+    min-width: 320px;
 }
 
 #picture {
@@ -58,6 +55,8 @@ div {
     text-align: center;
     margin-right: 220px;
     margin-left: 220px;
+    max-width: 1200px;
+    min-width: 320px;
 }
 
 #aboutMe {
@@ -69,6 +68,8 @@ div {
     padding: 30px;
     margin-right: 220px;
     margin-left: 220px;
+    max-width: 1200px;
+    min-width: 320px;
 }
 
 #aboutMe p {
@@ -86,6 +87,8 @@ div {
     padding: 30px;
     margin-right: 220px;
     margin-left: 220px;
+    max-width: 1200px;
+    min-width: 320px;
 }
 
 #gallery {
@@ -112,6 +115,8 @@ div {
     padding: 35px;
     margin-right: 220px;
     margin-left: 220px;
+    max-width: 1200px;
+    min-width: 320px;
 }
 
 #resume embed{
@@ -127,6 +132,8 @@ div {
     padding: 35px;
     margin-right: 220px;
     margin-left: 220px;
+    max-width: 1200px;
+    min-width: 320px;
 }
 
 #email {

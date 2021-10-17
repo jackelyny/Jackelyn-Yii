@@ -80,6 +80,11 @@ body {
     letter-spacing: 0px;
 }
 
+#aboutMe img {
+    overflow: hidden;
+    display: inline-block;
+}
+
 #projects {
     background-color: #EBCFB2;
     color: white;
@@ -97,9 +102,9 @@ body {
     margin-left: 50px;;
     background-color: inherit;
     display: inline-block;
-    
+    overflow: hidden;
 }
-  
+
 #desc {
     letter-spacing: 0px;
     text-align: center;
@@ -115,6 +120,7 @@ body {
     padding: 35px;
     margin-right: 220px;
     margin-left: 220px;
+    overflow: hidden;
 }
 
 #resume embed{
